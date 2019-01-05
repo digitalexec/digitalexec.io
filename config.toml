@@ -16,7 +16,7 @@ theme = "hugo-minimalist-theme"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/rg-sketch-photo-web-150-w.jpg"
-    header_background = "img/coffee.jpg"
+    header_background = "img/desk.jpg"
     header_title = "Technical Leap"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
