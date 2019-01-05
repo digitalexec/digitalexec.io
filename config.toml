@@ -1,4 +1,4 @@
-baseurl = "http://digitalexec.io/"
+baseurl = "https://digitalexec.io/"
 languageCode = "en-us"
 title = "Digital Tech Exec"
 # Define how many pages appear per site
