@@ -31,7 +31,7 @@ theme = "hugo-minimalist-theme"
     # create automatically.
     twitter   = ""
     facebook  = ""
-    linkedin  = ""
+    linkedin  = "rafaelgerena/"
     behance   = ""
     dribbble  = ""
     instagram = ""
