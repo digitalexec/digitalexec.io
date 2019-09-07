@@ -8,7 +8,7 @@ It seems obvious: Technology should serve people- especially during crisis. But 
 **Lessons learned:**<br>
 * We created a broadly defined "Disaster Collection" web page that will stay on our website for the entire Hurricane season, rather than a Hurricane Dorian-specific web page that would disappear when the storm does. (The Atlantic hurricane season runs from June 1st to November 30th).<br>
 * We will prepare hurricane related digital-media assets in advance (photos, graphics, web pages, etc) so they are ready for website deployment before the next storm arrives.<br>
-* We will add a "Disaster Collection" website navigation option to make it easier for people to give throughout the Hurricane season and during future times of crisis.
+* We will add a "Disaster Collection" website navigation option to make it easier for people to give throughout the Hurricane season and during future times of crisis.<br>
 
 **Leadership Lesson:**<br>
 While the future is uncertain, organizations in Hurricane-prone zones can serve their communities by preparing robust communications plans in advance.
