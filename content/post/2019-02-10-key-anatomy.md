@@ -1,6 +1,6 @@
 ---
 title: "The Anatomy of Key Technologies"
-date: 2019-02-10T09:09:56-05:00
+date: 2019-09-04T09:09:56-05:00
 ---
 
 ![Info Graphic showing the anatomy of a physical key and a modern email address](/img/2019-02-10-Key-Anatomy.svg)
