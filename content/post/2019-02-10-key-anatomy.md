@@ -36,3 +36,5 @@ https://www.lifewire.com/how-many-email-users-are-there-1171213
 
 Email Statistics Report 2018-2022, The Radicati Group, March 2018<br>
 https://www.radicati.com/wp/wp-content/uploads/2018/01/Email_Statistics_Report,_2018-2022_Executive_Summary.pdf
+
+#### [Click Here to read About Me](/about)

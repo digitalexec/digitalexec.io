@@ -19,3 +19,4 @@ While the future is uncertain, organizations in Hurricane-prone zones can serve 
 * Local Governments can list shelters that accept people and pets (a major issue for pet owners).<br>
 * Schools and Airports can report when they will re-open via text message, websites and social media.<br>
 
+#### [Click Here to read About Me](/about)
