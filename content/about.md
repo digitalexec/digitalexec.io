@@ -1,11 +1,8 @@
 ---
 title: "About me"
-date: 2019-01-05T09:05:18-05:00
+date: 2019-09-01T09:05:18-05:00
 ---
-![Rafael Gerena Sketch Photo](/img/rg-sketch-photo-web-150-w.jpg)
+I blog about leadership and digital technology. I am specifically interested in how smart organizations use technology to improve decisions and performance.
 
-I blog about digital technologies.
-
-## More about me
-
-Some other stuff
+## LinkedIn
+[Click Here to find me on LinkedIn](https://www.linkedin.com/in/rafaelgerena)
