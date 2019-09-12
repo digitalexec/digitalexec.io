@@ -17,7 +17,7 @@ theme = "hugo-minimalist-theme"
     # Link custom assets relative to /static
     avatar = "img/rg-color-sketch-150w.jpg"
     header_background = "img/desk.jpg"
-    header_title = "Technical Leap"
+    header_title = "Think Digital"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
