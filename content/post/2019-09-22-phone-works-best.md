@@ -1,7 +1,6 @@
 ---
 title: "Phone Works Best?"
 date: 2019-09-22T16:41:40-04:00
-draft: true
 ---
 
 ![Info Graphic showing a two-phase marketing and communications plan for an investor seminar](/img/2019-09-22-Phone-Works-Best.svg)
