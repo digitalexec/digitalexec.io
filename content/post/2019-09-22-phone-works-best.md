@@ -19,7 +19,6 @@ Indeed, when our nonprofit organization recently launched the first phase of our
 - In today's world, leaders need to know how to craft nimble strategies that blend the web, social media, video, face-to-face marketing, print media and, sometimes, phone calls.<br>
 - Leaders must remain fluid and adjust strategies on-the-fly based on the evidence of data and customer feedback.<br><br>
   **Ideas for other industries:**<br>
-	- **Health Care and Finance:** Given the private nature of these industries, clients will often require the human outreach of a personal meeting or call. For sensitive issues, digital- and social-media outreach alone is typically not enough. While this makes sense on face value, it requires an organization to reserve staff time and resources to personalize outreach.
+	- **Health Care and Finance:** Given the private nature of these industries, clients will often require the human outreach of a personal meeting or call. For sensitive issues, digital- and social-media outreach alone is typically not enough. While this makes sense on face value, it requires an organization to reserve staff time and resources to personalize outreach.<br>
 
-
-
+#### [Click Here to read About Me](/about)
